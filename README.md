@@ -1,1 +1,1 @@
-# manaul-testing
+# Manual Testing
